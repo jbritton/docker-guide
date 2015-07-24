@@ -1,4 +1,5 @@
-# docker-guide
+Docker Guide
+=============
 
 * [Boot2Docker](boot2docker.md)
 * [Docker Configs](docker-configs.md)
